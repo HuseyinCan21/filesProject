@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527499284945",
+    "project_id": "stajprojec",
+    "storage_bucket": "stajprojec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527499284945:android:7d70e2bae896bc2d1f50f0",
+        "android_client_info": {
+          "package_name": "com.example.files_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALobFDzKZD6eo7bM4mjPbdifaLSzVkbZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
